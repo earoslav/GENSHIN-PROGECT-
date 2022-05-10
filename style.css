@@ -36,12 +36,6 @@ body {
     font-family: sans-serif;
     color: purple;
 }
-.two:visited {
-    font-size: 40px;
-    text-decoration: none;
-    font-family: sans-serif;
-    color: grey;
-}
 .foot {
     font-size: 35px;
     text-align: center;
