@@ -87,7 +87,7 @@ body {
     border-radius: 40%;
     position: absolute;
     left: 8%;
-    top: 267.5%;
+    top: 267.8%;
 }
 .img2 {
     width: 4%;
@@ -142,4 +142,3 @@ iframe {
 body {
     background-image: linear-gradient(	#A2FFFB, #80FFFA, #55FFF9, #1CA6A1)
 }
-
