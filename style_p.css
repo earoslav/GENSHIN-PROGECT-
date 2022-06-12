@@ -10,6 +10,7 @@ main section {
 .img1 {
     width: 60%;
     height: 100%;
+    image-rendering: pixelated;
 }
 .text1 {
     margin-left: 0%;
@@ -265,27 +266,26 @@ header article p {
     margin-bottom: 2%;
 }
 .image1 {
-    width: 7.5%;
+    width: 4%;
     height: 6%;
-    border-radius: 40%;
     position: absolute;
     left: 2%;
-    top: 320.5%;
+    top: 346.8%;
 }
 .image2 {
-    width: 7.5%;
+    width: 4%;
     height: 6%;
-    border-radius: 40%;
+    border-radius: 50%;
     position: absolute;
     left: 2%;
-    top: 330%;
+    top: 356.3%;
 }
 .texte1 {
     background-color: D9D9D9;
     padding-top: 1%;
     padding-bottom: 1%;
     width: 50%;
-    margin-left: 46%;
+    margin-left: 36%;
     margin-top: 1%;
     margin-bottom: 2%;
     font-size: 180%;
@@ -295,7 +295,7 @@ header article p {
     padding-top: 0.1%;
     padding-bottom: 0.1%;
     width: 20%;
-    margin-left: 46%;
+    margin-left: 36%;
     margin-top: 1%;
     margin-bottom: 2%;
     font-size: 180%;
@@ -427,4 +427,9 @@ footer section {
     font-size: 150%;
     font-family: sans-serif;
     margin-top: 20%;
+}
+.text312 {
+    font-size: 150%;
+    font-family: sans-serif;
+    margin-top: 300%;
 }
