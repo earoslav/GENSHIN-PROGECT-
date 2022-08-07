@@ -214,7 +214,43 @@ body {
 .threethree {
     font-family: sans-serif;
 }
-table tr:hover {
-    border:0.5% solid lightblue;
-    transition: 2s border linear;
+.two22222 {
+    font-size: 160%;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    margin-left: 20%;
+    background-color: lightblue;
+    padding: 10 6 10 6%;
+    width: 100%
+}
+.three33333{
+    font-size: 160%;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    margin-left: 60%;
+    background-color: lightblue;
+    padding: 6%;
+    width: 100%;
+}
+.two22222:hover {
+    font-size: 160%;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: purple;
+    margin-left: 20%;
+    background-color lightblue;
+    padding: 12 8 12 8%;
+    width: 100%;
+}
+.three33333:hover {
+    font-size: 160%;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: purple;
+    margin-left: 60%;
+    background-color: lightblue;
+    padding:  12 8 12 8%;
+    width: 100%;
 }
