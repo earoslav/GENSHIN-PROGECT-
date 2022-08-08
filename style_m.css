@@ -142,7 +142,8 @@ body {
 }
 header h1 {
     text-align: center;
-    text-decoration: none;
+    font-family: sans-serif;
     margin-top: 2%;
     margin-bottom: 2%;
+    font-size: 150%;
 }
