@@ -140,3 +140,9 @@ body {
     padding:  12 8 12 8%;
     width: 100%;
 }
+headder h1 {
+    text-align: center;
+    text-decoration: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
