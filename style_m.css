@@ -10,8 +10,7 @@ body {
 .text {
     width: 82.5%;
     height: 22%;
-    font-size: 220vw;
-    margin-left: 7%;
+    font-size: 220%;
     background-color: E7E7E7;
     padding: 2%;
     font-family: sans-serif;
