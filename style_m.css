@@ -10,9 +10,8 @@ body {
 .text {
     width: 82.5%;
     height: 22%;
-    font-size: 5%;
+    font-size: 4vw;
     background-color: E7E7E7;
-    margin-left: 7%;
     padding: 2%;
     font-family: sans-serif;
     text-align: center;
