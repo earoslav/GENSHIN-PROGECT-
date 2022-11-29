@@ -215,6 +215,9 @@ body {
 .threethree {
     font-family: sans-serif;
 }
+main table tr td p {
+    font-size: 2vw;
+}
 .two22222 {
     font-size: 160%;
     text-decoration: none;
