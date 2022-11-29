@@ -24,7 +24,7 @@ body {
     padding-bottom: 3%;
 }
 .two {
-    font-size: 250%;
+    font-size: 3vw;
     text-decoration: none;
     font-family: sans-serif;
     color: black;
@@ -35,7 +35,7 @@ body {
     box-shadow: 10px 10px 5px 3px gray;
 }
 .three {
-    font-size: 250%;
+    font-size: 3vw;
     text-decoration: none;
     font-family: sans-serif;
     color: black;
