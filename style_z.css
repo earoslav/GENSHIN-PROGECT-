@@ -11,7 +11,7 @@ headder h1 {
     padding: 0%;
     border: 1px solid lightblue;
     border-radius: 30%;
-    font-size: 1vw;
+    font-size: 2vw;
 }
 headder img {
     margin-left: 16%;
@@ -22,7 +22,7 @@ headder img {
     font-size: 2.5vw;
     text-decoration: none;
     color: black;
-    left: 5%;
+    left: 4vw;
     font-family: sans-serif;
     top: 15%;
     background-color: lightblue;
@@ -47,7 +47,7 @@ headder img {
     font-size: 2.5vw;
     text-decoration: none;
     color: black;
-    right: 5%;
+    right: 4vw;
     font-family: sans-serif;
     top: 15%;
     background-color: lightblue;
