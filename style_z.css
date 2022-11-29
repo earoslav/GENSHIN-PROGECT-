@@ -37,12 +37,12 @@ headder img {
     font-size: 3vw;
     text-decoration: none;
     color: purple;
-    left: 5%;
+    left: 3vw;
     font-family: sans-serif;
     background-color: lightblue;
-    padding: 1%;
-    border-radius: 30%;
-    box-shadow: 5px 5px 2px 3px gray;
+    padding: 1vw;
+    border-radius: 5vw;
+    box-shadow: 0.7vw 0.7vw 0.3vw 0.4vw grey;
 }
 .two {
     position: absolute;
@@ -62,12 +62,12 @@ headder img {
     font-size: 3vw;
     text-decoration: none;
     color: purple;
-    right: 5%;
+    right: 3vw;
     font-family: sans-serif;
     background-color: lightblue;
-    padding: 1%;
-    border-radius: 30%;
-    box-shadow: 5px 5px 2px 3px gray;
+    padding: 1vw;
+    border-radius: 35vw;
+    box-shadow: 0.7vw 0.7vw 0.3vw 0.4vw grey;
 }
 .text {
     margin-top: 1vw;
