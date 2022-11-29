@@ -19,7 +19,7 @@ headder img {
 }
 .one {
     position: absolute;
-    font-size: 150%;
+    font-size: 2.5vw;
     text-decoration: none;
     color: black;
     left: 5%;
@@ -32,7 +32,7 @@ headder img {
 }
 .one:hover {
     position: absolute;
-    font-size: 220%;
+    font-size: 3vw;
     text-decoration: none;
     color: purple;
     left: 5%;
@@ -44,7 +44,7 @@ headder img {
 }
 .two {
     position: absolute;
-    font-size: 150%;
+    font-size: 2.5vw;
     text-decoration: none;
     color: black;
     right: 5%;
@@ -57,7 +57,7 @@ headder img {
 }
 .two:hover {
     position: absolute;
-    font-size: 220%;
+    font-size: 3vw;
     text-decoration: none;
     color: purple;
     right: 5%;
