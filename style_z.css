@@ -1,16 +1,16 @@
 headder h1 {
     font-family: sans-serif;
     text-align: center;
-    width: 24%;
-    height: 4%;
+    width: 24vw;
+    height: 3vw;
     position: absolute;
-    left: 35.5%;
-    top: 8%;
+    left: 34.7vw;
+    top: 5.4vw;
     color: white;
     background-color: lightblue;
     padding: 0%;
     border: 1px solid lightblue;
-    border-radius: 30%;
+    border-radius: 30vw;
     font-size: 2vw;
 }
 headder img {
