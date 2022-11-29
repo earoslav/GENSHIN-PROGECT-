@@ -146,6 +146,7 @@ main div {
 }
 .threethree {
     text-align: center;
+    font-family: sans-serif;
 }
 .article1 {
     background-color: D9D9D9;
@@ -213,9 +214,6 @@ p a:hover {
 }
 body {
     background-image: linear-gradient(	#A2FFFB, #80FFFA, #55FFF9, #1CA6A1)
-}
-.threethree {
-    font-family: sans-serif;
 }
 main table tr td p {
     font-size: 2vw;
