@@ -70,16 +70,16 @@ headder img {
     box-shadow: 5px 5px 2px 3px gray;
 }
 .text {
-    margin-top: 1%;
-    padding: 1%;
-    width: 70%;
+    margin-top: 1vw;
+    padding: 1vw;
+    width: 70vw;
     font-size: 2vw;
     font-family: sans-serif;
     background-color: E1E1E1;
-    margin-left: 1%;
+    margin-left: 2vw;
 }
 table td img {
-    width: 350%;
+    width: 8vw;
 }
 main div p {
     margin-top: 0.5%;
