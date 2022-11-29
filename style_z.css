@@ -14,8 +14,10 @@ headder h1 {
     font-size: 2vw;
 }
 headder img {
-    margin-left: 16%;
-    margin-top: 2%;
+    margin-left: 18.5vw;
+    margin-top: 2vw;
+    width: 60vw;
+    height: 30vw;
 }
 .one {
     position: absolute;
