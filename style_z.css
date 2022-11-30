@@ -220,24 +220,24 @@ main table tr td p {
     font-size: 2vw;
 }
 .two22222 {
-    font-size: 160%;
+    font-size: 1.7vw;
     text-decoration: none;
     font-family: sans-serif;
     color: black;
-    margin-left: 20%;
+    margin-left: 2vw;
     background-color: lightblue;
-    padding: 10 6 10 6%;
-    width: 100%
+    padding: 2.5 2.5 2 1vw;
+    width: 9vw;
 }
 .three33333{
-    font-size: 160%;
+    font-size: 1.7vw;
     text-decoration: none;
     font-family: sans-serif;
     color: black;
-    margin-left: 60%;
+    margin-left: 2vw;
     background-color: lightblue;
-    padding: 6%;
-    width: 100%;
+    padding: 2.5 2.5 2 1vw;
+    width: 9vw;
 }
 .two22222:hover {
     font-size: 160%;
