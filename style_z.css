@@ -260,7 +260,8 @@ main table tr td p {
     width: 100%;
 }
 .o img {
-
-
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50vw;
 }
 
