@@ -32,6 +32,7 @@ body {
     background-color: lightblue;
     padding: 2vw;
     border-radius: 4vw;
+    box-shadow: 0.7vw 0.7vw 0.3vw 0.4vw grey;
 }
 .three {
     font-size: 3vw;
@@ -40,9 +41,9 @@ body {
     color: black;
     margin-left: 28vw;
     background-color: lightblue;
-    padding: 6%;
-    border-radius: 30%;
-    box-shadow: 10px 10px 5px 3px gray;
+    padding: 2vw;
+    border-radius: 4vw;
+    box-shadow: 0.7vw 0.7vw 0.3vw 0.4vw grey;
     
 }
 .two:hover {
