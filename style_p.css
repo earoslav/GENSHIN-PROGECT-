@@ -171,23 +171,23 @@ section {
 .one1 {
     font-family: sans-serif;
     text-align: center;
-    width: 15%;
-    height: 4%;
+    width: 15vw;
+    height: 3vw;
     position: absolute;
-    left: 40%;
-    top: 8%;
+    left: 40.1vw;
+    top: 5.4vw;
     color: white;
     background-color: lightblue;
     padding: 0%;
-    border: 1px solid lightblue;
-    border-radius: 30%;
+    border: 0.5vw solid lightblue;
+    border-radius: 30vw;
 }
 .genshin {
-    margin-left: 40%;
-    margin-top: 2%;
-    width: 15%;
-    height: 10%;
-    border-radius: 40%;
+    margin-left: 40vw;
+    margin-top: 2vw;
+    width: 15vw;
+    height: 8vw;
+    border-radius: 4vw;
 }
 .two2 {
     display: flex;
@@ -206,7 +206,7 @@ header section article .abob3 {
     height: 27%;
 }
 header section article p {
-    font-size: 150%;
+    font-size: 2vw;
     font-family: sans-serif;
 }
 .p1 {
