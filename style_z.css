@@ -91,13 +91,13 @@ main div p {
     margin-left: 1vw;
 }
 footer p {
-    margin-top: 0.5%;
-    padding: 1%;
-    width: 70%;
-    font-size: 180%;
+    argin-top: 0.5vw;
+    padding: 1vw;
+    width: 70vw;
+    font-size: 3vw;
     font-family: sans-serif;
     background-color: E1E1E1;
-    margin-left: 1%;
+    margin-left: 1vw;
 }
 td p {
     font-size: 2vw;
