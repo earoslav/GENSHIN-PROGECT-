@@ -134,10 +134,11 @@ span {
     border-radius: 20vw;
 }
 main img {
-    width: 2vw;
+    width: 8vw;
     height: 8vw;
-    margin-top: 1vw;
-    margin-left: 2vw;
+    margin-left: 0vw;
+    margin-top: 0vw;
+    border-radius: 50vw;
 }
 main div {
     display: flex;
