@@ -47,14 +47,13 @@ body {
     
 }
 .two:hover {
-    font-size: 260%;
+    font-size: 4vw;
     text-decoration: none;
     font-family: sans-serif;
     color: purple;
     background-color: lightblue;
-    padding: 6%;
-    border-radius: 30%;
-    box-shadow: 5px 5px 2px 3px gray;
+    padding: 2vw;
+    border-radius: 30vw;
 }
 .three:hover {
     font-size: 260%;
