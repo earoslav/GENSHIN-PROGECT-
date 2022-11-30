@@ -100,15 +100,14 @@ footer p {
     margin-left: 1%;
 }
 td p {
-    font-size: 200%;
+    font-size: 2vw;
     font-family: sans-serif;
-    margin-left: 10%;
-
+    margin-left: 4vw;
 }
 table {
-    margin: 0.3% 0 1% 1%;
+    margin: 0.3vw 0.1vw 1vw;
     border-collapse: separate;
-    border-spacing: 0px 35px;
+    border-spacing: 0vw 2vw;
 }
 tr {
     background-color: D1D1D1;
@@ -136,10 +135,10 @@ span {
     border-radius: 20vw;
 }
 main img {
-    width: 6%;
-    height: 10%;
-    border-radius: 50%;
-    margin-top: 1%;
+    width: 2vw;
+    height: 8vw;
+    margin-top: 1vw;
+    margin-left: 2vw;
 }
 main div {
     display: flex;
