@@ -305,29 +305,27 @@ p a:hover {
 }
 .second:hover {
     position: absolute;
-    font-size: 160%;
+    font-size: 3vw;
     text-decoration: none;
     color: purple;
-    right: 5%;
+    right: 3vw;
     font-family: sans-serif;
-    top: 7%;
     background-color: lightblue;
-    padding: 1%;
-    border-radius: 30%;
-    box-shadow: 5px 5px 2px 3px gray;
+    padding: 1vw;
+    border-radius: 5vw;
+    box-shadow: 0.7vw 0.7vw 0.3vw 0.4vw grey;
 }
 .first:hover {
     position: absolute;
-    font-size: 160%;
+    font-size: 3vw;
     text-decoration: none;
     color: purple;
-    left: 5%;
+    left: 3vw;
     font-family: sans-serif;
-    top: 7%;
     background-color: lightblue;
-    padding: 1%;
-    border-radius: 30%;
-    box-shadow: 5px 5px 2px 3px gray;
+    padding: 1vw;
+    border-radius: 5vw;
+    box-shadow: 0.7vw 0.7vw 0.3vw 0.4vw grey;
 }
 .two {
     background-color: lightblue;
