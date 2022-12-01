@@ -150,7 +150,7 @@ section {
     margin-left: 4%;
 }
 .onetwo p {
-    font-size: 150%;
+    font-size: 2vw;
     font-family: sans-serif;
 }
 .boom2 {
@@ -234,11 +234,13 @@ header section article {
 .h1 {
     font-family: sans-serif;
     text-align: center;
-    margin-top: -4%;
+    margin-top: 1vw;
+    font-size: 3vw;
 }
 h2 {
     font-family: sans-serif;
     margin-left: 3%;
+    font-size: 2vw;
 }
 header article p {
     background-color: E7E7E7;
