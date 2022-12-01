@@ -50,21 +50,30 @@ section {
     margin-top: 0.5vw;
 }
 .article3 {
-    width: 16%;
-    height: 5%;
+    width: 10vw;
+    height: 5vw;
+    margin-left: 5vw;
 }
 .article4 {
-    width: 16%;
-    height: 5%;
+    width: 10vw;
+    height: 5vw;
+    margin-left: 2vw;
 }
 .article5 {
-    width: 16%;
-    height: 5%;
+    width: 10vw;
+    height: 8vw;
+    margin-right: 6vw;
+    padding-left: 2vw;
 }
 .article6 {
-    width: 16%;
-    height: 5%;
-    margin-left: 15%;
+    padding-right: 0vw;
+    margin-right: 0%;
+    display: flex;
+    float: right;
+    width: 10vw;
+    height: 5vw;
+    margin-left: 5vw;
+    margin-top: 1vw;
 }
 .img5 {
     width: 600%;
@@ -341,12 +350,6 @@ main section {
     padding-right: 0%;
     margin-right: 0%;
     margin-left: 1vw;
-}
-.article6 {
-    padding-right: 0%;
-    margin-right: 0%;
-    display: flex;
-    float: right;
 }
 footer section {
     margin-left: 1%;
