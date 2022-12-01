@@ -196,10 +196,10 @@ header section {
     display: flex;
 }
 header section article .abob1 {
-    width: 100%;
+    width: 20vw;
 }
 header section article .abob2 {
-    width: 100%;
+    width: 20vw;
 }
 header section article .abob3 {
     width: 23vw;
@@ -243,6 +243,8 @@ h2 {
 header article p {
     background-color: E7E7E7;
     padding: 1vw;
+    font-family: sans-serif;
+    font-size: 2vw;
 }
 .abob10 {
     font-size: 150%;
