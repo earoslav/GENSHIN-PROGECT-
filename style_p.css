@@ -202,8 +202,9 @@ header section article .abob2 {
     width: 100%;
 }
 header section article .abob3 {
-    width: 100%;
-    height: 27%;
+    width: 23vw;
+    height: 12vw;
+}
 }
 header section article p {
     font-size: 2vw;
@@ -241,7 +242,7 @@ h2 {
 }
 header article p {
     background-color: E7E7E7;
-    padding: 4%;
+    padding: 1vw;
 }
 .abob10 {
     font-size: 150%;
