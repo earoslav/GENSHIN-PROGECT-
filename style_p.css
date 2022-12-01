@@ -25,7 +25,7 @@ main section {
 }
 main section article {
     display: flex;
-    margin-left: 3%;
+    margin-left: 1vw;
 }
 .img4 {
     width: 13vw;
@@ -44,10 +44,10 @@ section {
     width: 16%;
 }
 .article2 {
-    width: 16%;
-    height: 5%;
-    margin-left: 1%;
-    margin-top: 0.5%;
+    width: 12vw;
+    height: 5vw;
+    margin-left: 0vw;
+    margin-top: 0.5vw;
 }
 .article3 {
     width: 16%;
