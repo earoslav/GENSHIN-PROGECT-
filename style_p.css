@@ -3,7 +3,7 @@ main section {
     padding: 1%;
     background-color: E7E7E7;
     margin: 1% 0% 0% 0%;
-    width: 70%;
+    width: 79vw;
     display: grid;
     grid-template-columns:  0.4fr 0.4fr 0.4fr 0.4fr 0.5fr 0.4fr;
 }
