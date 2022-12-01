@@ -387,42 +387,42 @@ footer section {
     margin-top: 300%;
 }
 .two22222 {
-    font-size: 160%;
+    font-size: 1.7vw;
     text-decoration: none;
     font-family: sans-serif;
     color: black;
-    margin-left: 20%;
+    margin-left: 2vw;
     background-color: lightblue;
-    padding: 10 6 10 6%;
-    width: 100%
+    padding: 2.5 2.5 2 1vw;
+    width: 9vw;
 }
 .three33333{
-    font-size: 160%;
+    font-size: 1.7vw;
     text-decoration: none;
     font-family: sans-serif;
     color: black;
-    margin-left: 60%;
+    margin-left: 2vw;
     background-color: lightblue;
-    padding: 6%;
-    width: 100%;
+    padding: 2.5 2.5 2 1vw;
+    width: 13vw;
 }
 .two22222:hover {
-    font-size: 160%;
+    font-size: 3vw;
     text-decoration: none;
     font-family: sans-serif;
     color: purple;
-    margin-left: 20%;
-    background-color lightblue;
-    padding: 12 8 12 8%;
-    width: 100%
+    margin-left: 2vw;
+    background-color: lightblue;
+    padding: 3 3 2.5 1.5vw;
+    width: 16vw;
 }
 .three33333:hover {
-    font-size: 160%;
+    font-size: 3vw;
     text-decoration: none;
     font-family: sans-serif;
     color: purple;
-    margin-left: 60%;
-    background-color: lightblue;
-    padding:  12 8 12 8%;
-    width: 100%;
+    margin-left: 2vw;
+    background-color: lightblue ;
+    padding: 3 3 2.5 1.5vw;
+    width: 16vw;
 }
