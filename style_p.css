@@ -3,7 +3,7 @@ main section {
     padding: 1vw;
     background-color: E7E7E7;
     margin: 1vw 0vw 0vw 0vw;
-    width: 79vw;
+    width: 80vw;
     display: grid;
     grid-template-columns:  0.4fr 0.4fr 0.4fr 0.4fr 0.5fr 0.4fr;
 }
@@ -22,6 +22,7 @@ main section {
     width: 10vw;
     height: 3vw;
     margin-top: 3vw;
+    margin-left: 3vw;
 }
 main section article {
     display: flex;
@@ -31,11 +32,13 @@ main section article {
     width: 13vw;
     height: 7vw;
     margin-top: 1vw;
+    margin-left: 1vw;
 }
 .img3 {
     width: 13vw;
     height: 6vw;
     margin-top: 1.5vw;
+    margin-left: 1.5vw;
 }
 section {
     width: 90%;
@@ -72,7 +75,7 @@ section {
     float: right;
     width: 10vw;
     height: 5vw;
-    margin-left: 5vw;
+    margin-left: 4vw;
     margin-top: 1vw;
 }
 .img5 {
@@ -147,7 +150,7 @@ section {
     width: 79vw;
 }
 .onetwo article {
-    margin-left: 4%;
+    margin-left: 0vw;
 }
 .onetwo p {
     font-size: 2vw;
@@ -157,7 +160,7 @@ section {
     margin-left: 1vw;
 }
 .boom3 {
-    margin-left: 1vw;
+    margin-left: vw;
 }
 .boom4 {
     margin-left: 1vw;
