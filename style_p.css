@@ -8,8 +8,8 @@ main section {
     grid-template-columns:  0.4fr 0.4fr 0.4fr 0.4fr 0.5fr 0.4fr;
 }
 .img1 {
-    width: 60%;
-    height: 100%;
+    width: 8vw;
+    height: 9vw;
     image-rendering: pixelated;
 }
 .text1 {
