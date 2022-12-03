@@ -3,7 +3,7 @@ main section {
     padding: 1vw;
     background-color: E7E7E7;
     margin: 1vw 0vw 0vw 0vw;
-    width: 80vw;
+    width: 82vw;
     display: grid;
     grid-template-columns:  0.4fr 0.4fr 0.4fr 0.4fr 0.5fr 0.4fr;
 }
@@ -58,7 +58,7 @@ section {
     margin-left: 0vw;
 }
 .article4 {
-    width: 10vw;
+    width: 11vw;
     height: 5vw;
     margin-left: 2vw;
 }
@@ -147,7 +147,7 @@ section {
 }
 .onetwo {
     background-color: white;
-    width: 80vw;
+    width: 82vw;
 }
 .onetwo article {
     margin-left: 0vw;
@@ -160,10 +160,10 @@ section {
     margin-left: 1vw;
 }
 .boom3 {
-    margin-left: vw;
+    margin-left: 1vw;
 }
 .boom4 {
-    margin-left: 1vw;
+    margin-left: 0vw;
 }
 .boom5 {
     margin-left: 3vw;
