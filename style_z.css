@@ -20,7 +20,7 @@ headder img {
     height: 30vw;
 }
 tr {
-    background-color: E7E7E7;
+    background-color: #E7E7E7;
 }
 .fg {
      background-color: ;
@@ -81,7 +81,7 @@ tr {
     width: 70vw;
     font-size: 2vw;
     font-family: sans-serif;
-    background-color: E1E1E1;
+    background-color: #E1E1E1;
     margin-left: 2vw;
 }
 table td img {
@@ -93,7 +93,7 @@ main div p {
     width: 70vw;
     font-size: 3vw;
     font-family: sans-serif;
-    background-color: E1E1E1;
+    background-color: #E1E1E1;
     margin-left: 1vw;
 }
 footer p {
@@ -102,7 +102,7 @@ footer p {
     width: 70vw;
     font-size: 3vw;
     font-family: sans-serif;
-    background-color: E1E1E1;
+    background-color: #E1E1E1;
     margin-left: 1vw;
 }
 td p {
@@ -152,14 +152,14 @@ main div {
     font-size: 4vw;
 }
 .article1 {
-    background-color: D9D9D9;
+    background-color: #D9D9D9;
     padding-top: 1%;
     padding-bottom: 1%;
     width: 20%;
     margin-left: 7%
 }
 .article2 {
-    background-color: D9D9D9;
+    background-color: #D9D9D9;
     padding-top: 0.1%;
     padding-bottom: 0.1%;
     width: 20%;
@@ -184,7 +184,7 @@ main div {
     top: 288.7%;
 }
 .texte1 {
-    background-color: D9D9D9;
+    background-color: #D9D9D9;
     padding-top: 1%;
     padding-bottom: 1%;
     width: 50%;
@@ -194,7 +194,7 @@ main div {
     font-size: 180%;
 }
 .texte2 {
-    background-color: D9D9D9;
+    background-color: #D9D9D9;
     padding-top: 0.1%;
     padding-bottom: 0.1%;
     width: 20%;
