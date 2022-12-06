@@ -14,6 +14,37 @@ main section article {
     display: flex;
     margin-left: 1vw;
 }
+.article2 {
+    width: 12vw;
+    height: 5vw;
+    margin-left: 0vw;
+    margin-top: 0.5vw;
+}
+main section article {
+    display: flex;
+    margin-left: 1vw;
+}
+main section {
+    padding-right: 0%;
+    margin-right: 0%;
+    margin-left: 1vw;
+}
+main section {
+    display: flex;
+    padding: 1vw;
+    background-color: #E7E7E7;
+    margin: 1vw 0vw 0vw 0vw;
+    width: 82vw;
+    display: grid;
+    grid-template-columns: 0.4fr 0.4fr 0.4fr 0.4fr 0.5fr 0.4fr;
+}
+section {
+    width: 90vw;
+}
+main section article {
+    display: flex;
+    margin-left: 1vw;
+}
 .onetwo p {
     font-size: 2vw;
     font-family: sans-serif;
