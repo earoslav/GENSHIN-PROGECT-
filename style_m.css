@@ -14,6 +14,31 @@ main section article {
     display: flex;
     margin-left: 1vw;
 }
+.article3 {
+    height: 5vw;
+    margin-left: 0vw;
+}
+.article4 {
+    width: 11vw;
+    height: 5vw;
+    margin-left: 2vw;
+}
+.article5 {
+    width: 10vw;
+    height: 8vw;
+    margin-right: 6vw;
+    padding-left: 2vw;
+}
+.article6 {
+    padding-right: 0vw;
+    margin-right: 0%;
+    display: flex;
+    float: right;
+    width: 10vw;
+    height: 5vw;
+    margin-left: 4vw;
+    margin-top: 1vw;
+}
 .article2 {
     width: 12vw;
     height: 5vw;
