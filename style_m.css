@@ -70,7 +70,7 @@ main section {
     display: flex;
     padding: 1vw;
     background-color: #E7E7E7;
-    margin: 1vw 0vw 0vw 0vw;
+    margin: 1vw 0vw 1vw 1vw;
     width: 82vw;
     display: grid;
     grid-template-columns: 0.4fr 0.4fr 0.4fr 0.4fr 0.5fr 0.4fr;
