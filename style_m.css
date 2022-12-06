@@ -7,6 +7,18 @@
 body {
     margin: 0%;
 }
+.h1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 1vw;
+    font-size: 3vw;
+}
+h2 {
+    font-family: sans-serif;
+    margin-left: 3%;
+    font-size: 2vw;
+}
+
 .text {
     width: 82.5vw;
     height: 11vw;
