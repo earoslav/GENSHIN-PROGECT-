@@ -1,5 +1,5 @@
 .genshin {
-    width: 100vw;
+    width: 99vw;
     height: 60vw;
     left: 0px;
     top: 0px;
@@ -14,7 +14,7 @@ body {
     display: flex;
 }
 header {
-width: 100vw;
+    width: 98.5vw;
 }
 .onetwo article {
     margin-left: 0vw;
