@@ -65,7 +65,7 @@ main section {
     margin-right: 0%;
     margin-left: 1vw;
 }
- div main section {
+ main div section {
     display: flex;
     padding: 1vw;
     background-color: #E7E7E7;
