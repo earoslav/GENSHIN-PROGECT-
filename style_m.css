@@ -13,6 +13,9 @@ body {
     width: 82vw;
     display: flex;
 }
+header {
+width: 100vw;
+}
 .onetwo article {
     margin-left: 0vw;
 }
